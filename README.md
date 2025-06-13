@@ -12,16 +12,22 @@ Tecnologías y librerías usadas
 
 Funcionalidades
 
-- Detección facial en tiempo real desde cámara o imagen cargada
-- Detección de objetos faciales como ojos, boca, nariz (dependiendo del modelo)
+- Detección de objetos faciales como ojos, boca, nariz
 - Interfaz sencilla desde Google Colab
 
 Cómo ejecutar
 
 1. Abre el archivo `.ipynb` en [Google Colab](https://colab.research.google.com/)
 2. Ejecuta celda por celda
-3. Carga una imagen o activa tu cámara (según la opción del código)
+3. Carga una imagen
 4. Visualiza los resultados directamente en Colab
+
+Imágenes de prueba
+
+Este repositorio incluye imágenes de ejemplo que se pueden usar para probar el código.  
+Están ubicadas en la carpeta [`test_images`](./test_images/).
+
+Puedes cargarlas directamente desde Colab para verificar el funcionamiento del reconocimiento facial.
 
 📌 Nota
 
